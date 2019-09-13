@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'simple-angular-app';
+  appTitle = 'Angular ToDo application';
 }
