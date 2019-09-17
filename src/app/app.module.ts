@@ -9,7 +9,6 @@ import { ToolbarComponent } from './toolbar/toolbar.component';
 import { BoardComponent } from './board/board.component';
 import { CardItemComponent } from './card-item/card-item.component';
 import { CardListComponent } from './card-list/card-list.component';
-import { ModelsComponent } from './models/models.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +19,6 @@ import { ModelsComponent } from './models/models.component';
     BoardComponent,
     CardItemComponent,
     CardListComponent,
-    ModelsComponent
   ],
   imports: [
     BrowserModule,
